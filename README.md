@@ -94,6 +94,9 @@ All scripts are written in **pure Bash**, portable across most Linux systems.
 
 - **Write automated tests with GitHub Actions**
 
+## Reflection
+You can read my reflection with screenshots here: [REFLECTION.md](Reflection.md)
+
 ## License
 
 
