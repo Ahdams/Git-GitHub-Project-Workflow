@@ -51,10 +51,6 @@ Even though this was a solo project, I simulated code reviews by leaving comment
 
 ## 
 
-## 
-
-## 
-
 ## **5\. Release Management**
 
 Creating a **v1.0.0 release with release notes** taught me the importance of versioning. Tagging commits ensures that a specific snapshot of the project can always be referenced.
@@ -64,14 +60,6 @@ Creating a **v1.0.0 release with release notes** taught me the importance of ver
 
 **Screenshot of release page:**
 ![Release](images/release.png)
-
-## 
-
-## 
-
-## 
-
-## 
 
 ## 
 
@@ -89,13 +77,6 @@ Setting up a **CI pipeline** with linting and shell script checks showed me how 
 
 **Screenshot of Dependabot PR:**  
 ![Dependabot](images/dependabot.png)
-
-
-## 
-
-## 
-
-## 
 
 ## 
 
