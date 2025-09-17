@@ -91,7 +91,7 @@ If I were working in a team, these practices would ensure clarity, accountabilit
 **Overall takeaway:**  
  Version control is not just about saving code. It is about **managing changes, collaborating effectively, and building software that can grow sustainably.**
 
-## **Email 
+## **Email**
 
 - sangdaviddorcas@gmail.com
 - okekekenechukwu281@gmail.com
