@@ -13,7 +13,7 @@ It showcases repository setup, branching strategies, issue tracking, pull reques
 ##  Features
 - **hello.sh** → prints a greeting message  
 - **backup.sh** → creates a compressed backup of a directory  
-- **monitor.sh** → displays CPU and memory usage  
+- **disk_check.sh** → displays disk space and memory usage  
 
 
 All scripts are written in **pure Bash**, portable across most Linux systems.
@@ -24,13 +24,12 @@ All scripts are written in **pure Bash**, portable across most Linux systems.
 ## Project Structure
 
 .
-├── scripts/
-│ ├── hello.sh # Prints "Hello, World!"
-│ ├── backup.sh # Compresses a target folder into .tar.gz
-├── docs/ # Extended documentation or examples
-├── .gitignore
-├── LICENSE
-└── README.md
+- scripts/
+   --- hello.sh # Prints "Hello, World!"
+   --- backup.sh # Compresses a target folder into .tar.gz
+- .gitignore
+- LICENSE
+- README.md
 
 
 ---
@@ -60,29 +59,31 @@ All scripts are written in **pure Bash**, portable across most Linux systems.
  ## Usage Examples  
 
 
-  **hello.sh**
-    ```bash
+-  **hello.sh**
+     ```bash
     ./scripts/hello.sh
-    #Output: Hello, $user! Welcome to Bash script
-    
-**backup.sh**
-./scripts/backup.sh /home/user/documents
-# Output: Backup created: backup-2025-09-17.tar.gz
+     Output: Hello, <username>! Welcome to Bash script
+
+
+- **backup.sh**
+    ```bash
+   ./scripts/backup.sh /home/user/documents
+   Output: Backup created: backup-2025-09-17.tar.gz
 
 
 
 ## Contribution Guidelines
 
 
-1. Fork this repository
+- **Fork this repository**
 
-2. Create a feature branch (git checkout -b feature-name)
+- **Create a feature branch (git checkout -b feature-name)**
 
-3. Commit your changes (git commit -m "feat: add new script")
+- **Commit your changes (git commit -m "feat: add new script")**
 
-4. Push to the branch (git push origin feature-name)
+- **Push to the branch (git push origin feature-name)**
 
-5. Open a Pull Request
+- **Open a Pull Request**
 
 ## Known Issues / Future Improvements
 
