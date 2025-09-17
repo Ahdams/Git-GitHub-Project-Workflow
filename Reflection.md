@@ -84,7 +84,7 @@ Setting up a **CI pipeline** with linting and shell script checks showed me how 
 **Key lesson:** Automation and  make projects scalable and reliable.
 
 **Screenshot of GitHub Actions workflow:**  
-![GitHub Actions](images/actions.png)
+![GitHub Actions](images/action.png)
 
 
 **Screenshot of Dependabot PR:**  
